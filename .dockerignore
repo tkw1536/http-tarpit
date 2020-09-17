@@ -1,0 +1,5 @@
+*
+!go.mod
+!go.sum
+!tarpit
+!*.go
